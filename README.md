@@ -7,7 +7,8 @@ The plot of sum of Passangers for Departure Date Month Month.The marks are label
 
 
 
-[Link to Tableau](https://public.tableau.com/app/profile/sajal.jain4190/viz/Airline-Dashboard-Data-Analysis/Dashboard1)
+[Link to Tableau](https://public.tableau.com/app/profile/sajal.jain4190/viz/AirlineDataAnalysis_16739727764620/Dashboard1)
 
-![airline](https://user-images.githubusercontent.com/106689439/212529084-902c96ab-c4ad-4260-85fd-3dbc6fcf789a.jpg)
+![air](https://user-images.githubusercontent.com/106689439/213278035-aecc53a9-22c0-4858-8042-cdd92e33d1da.png)
+
 
