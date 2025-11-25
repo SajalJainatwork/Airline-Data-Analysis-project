@@ -1,10 +1,6 @@
 
 ![Indian-Airlines-Vistara-IndiGo-Air-India-Go-First-And-SpiceJet](https://github.com/user-attachments/assets/0560c4fe-f3b4-44b7-a005-c399512ebd84)
 
-
-![ai](https://github.com/user-attachments/assets/a9561c9a-9f1c-4621-9bf0-798d0298a083)
-
-
 # Airline-Data-Analysis-project
 Flights from Luxembourg.
 
