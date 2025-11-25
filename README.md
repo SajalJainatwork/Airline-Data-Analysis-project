@@ -1,3 +1,6 @@
+![ai](https://github.com/user-attachments/assets/a9561c9a-9f1c-4621-9bf0-798d0298a083)
+
+
 # Airline-Data-Analysis-project
 Flights from Luxembourg.
 
